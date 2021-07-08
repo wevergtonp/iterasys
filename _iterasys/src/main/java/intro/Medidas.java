@@ -10,6 +10,7 @@ public class Medidas {
     // 3.2 - Métodos e Funções
     public static void main(String[] args) {
         System.out.println("Calculo de áreas");
+        System.out.println("Boa noite!!!");
         calcularModoCompacto();
     }
 
